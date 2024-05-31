@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hey there 👋, I'm Eugenio Elizondo</h1>
+<h1 align="center">Hey there 👋 I'm Eugenio</h1>
 <h3 align="center">A passionate data science masters student at the University of Essex</h3>
 
 - 🔭 I’m currently working on **an economic analysis of the Star Wars galaxy, leveraging data science to model planetary economies, simulate trade networks, and assess the impacts of political events, offering insights into the fictional universe's economic systems and their potential real-world implications**
